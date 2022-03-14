@@ -1,7 +1,8 @@
 # id 只能填 字母 数字 半角符号
-id=Module-Template
-name=模块模板
-version=v1
-versionCode=1
-author=Petit Abba
-description=一个简短的描述
+id=Fdroid-Priv
+name=F-Droid Privileged Extension
+version=Version 0.2.13
+versionCode=20220314
+author=entr0pia@GitHub
+description=Installs F-Droid Privileged Extension systemlessly
+updateJson=https://raw.githubusercontent.com/entr0pia/Fdroid-Priv/master/update.json
